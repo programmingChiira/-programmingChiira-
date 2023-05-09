@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [ecomrade](https://ecomrade.co.ke/)
 
-- 🌱 I’m currently learning **Laravel**
-
 - 👨‍💻 All of my projects are available at [https://github.com/programmingChiira](https://github.com/programmingChiira)
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **Laravel || Vue**
 
 - 📫 How to reach me **programmingchiira@gmail.com**
 
