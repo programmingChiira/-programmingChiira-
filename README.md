@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmingchiira" alt="programmingchiira" /></a> </p>
 
-- 🔭 I’m currently working on [ecomrade](https://ecomrade.co.ke/)
+- 🔭 I’m currently working on [ecomrade](https://ecomrade.co.ke/), a hub for Kenyan comrades
 
 - 👨‍💻 All of my projects are available at [https://github.com/programmingChiira](https://github.com/programmingChiira)
 
