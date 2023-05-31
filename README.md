@@ -1,7 +1,7 @@
 # <h1 align="center">Hello, I'm chiira</h1>
 <h3 align="center">A passionate Laravel-Vue developer.</h3>
 <p align="center">
-  <img style="background-color: white;width: 130px;height: 130px; object-fit: contain:"                  src="https://ecomrade.co.ke/img/profiles/BN4NemqLuxRP0jgo0oD9KtfANDGDwqouCfLmzUSF.jpg"/>
+  <img style="background-color: white;width: 200px;height: 200px; object-fit: contain:"                  src="https://ecomrade.co.ke/img/profiles/BN4NemqLuxRP0jgo0oD9KtfANDGDwqouCfLmzUSF.jpg"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=programmingchiira&label=Profile%20views&color=0e75b6&style=flat" alt="programmingchiira" /> </p>
 
