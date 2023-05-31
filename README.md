@@ -1,6 +1,6 @@
 # <h1 align="center">Hello, I'm chiira</h1>
 <h3 align="center">A passionate Laravel-Vue developer.</h3>
-<div style="width: 150px;height: 150px;margin-left: auto;margin-right: auto;transform: translateY(-50%);border-radius: 50%;overflow: hidden;position: relative;z-index: 4;box-shadow: 0px 0px 0px 3px #75D4C8;">
+<div style="width: 90px;height: 90px;margin-left: auto;margin-right: auto;transform: translateY(-50%);border-radius: 50%;overflow: hidden;position: relative;z-index: 4;box-shadow: 0px 0px 0px 3px #75D4C8;">
   <img src="https://ecomrade.co.ke/img/profiles/BN4NemqLuxRP0jgo0oD9KtfANDGDwqouCfLmzUSF.jpg"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=programmingchiira&label=Profile%20views&color=0e75b6&style=flat" alt="programmingchiira" /> </p>
